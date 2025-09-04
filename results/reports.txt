@@ -1,0 +1,49 @@
+Model: logistic_regression
+Accuracy: 0.9049
+
+              precision    recall  f1-score   support
+
+           0     0.9136    0.8928    0.9030      4961
+           1     0.8967    0.9168    0.9067      5039
+
+    accuracy                         0.9049     10000
+   macro avg     0.9052    0.9048    0.9049     10000
+weighted avg     0.9051    0.9049    0.9049     10000
+
+Model: naive_bayes
+Accuracy: 0.8700
+
+              precision    recall  f1-score   support
+
+           0     0.8773    0.8579    0.8675      4961
+           1     0.8631    0.8819    0.8724      5039
+
+    accuracy                         0.8700     10000
+   macro avg     0.8702    0.8699    0.8700     10000
+weighted avg     0.8702    0.8700    0.8700     10000
+
+Model: linear_svm
+Accuracy: 0.8974
+
+              precision    recall  f1-score   support
+
+           0     0.9026    0.8891    0.8958      4961
+           1     0.8924    0.9055    0.8989      5039
+
+    accuracy                         0.8974     10000
+   macro avg     0.8975    0.8973    0.8974     10000
+weighted avg     0.8975    0.8974    0.8974     10000
+
+Model: random_forest
+Accuracy: 0.8560
+
+              precision    recall  f1-score   support
+
+           0     0.8459    0.8678    0.8567      4961
+           1     0.8664    0.8444    0.8553      5039
+
+    accuracy                         0.8560     10000
+   macro avg     0.8562    0.8561    0.8560     10000
+weighted avg     0.8563    0.8560    0.8560     10000
+
+LSTM test accuracy: 0.8888
