@@ -15,12 +15,7 @@ Deep Learning project for Sentiment Analysis on the IMDB Movie Reviews dataset. 
 * [Usage Examples](#usage-examples)
 * [Modeling Details](#modeling-details)
 * [Results & Output](#results--output)
-* [Reproducing Experiments](#reproducing-experiments)
-* [Notes & Assumptions](#notes--assumptions)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-
+  
 ---
 
 ## Project Overview
